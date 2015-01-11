@@ -29,8 +29,30 @@ Fuente: AudioLibros en AlbaLearning
 <atom:link href="https://raw.githubusercontent.com/HartasCuerdas/al-alba/master/podcast-feed.xml" rel="self" type="application/rss+xml"/>
 <itunes:explicit>clean</itunes:explicit>
 <itunes:image href="https://pbs.twimg.com/profile_images/1879091195/albalearning-libro.jpg"/>
-<itunes:category text="Arts">
+<itunes:category text="Literature">
 </itunes:category>
+<item>
+  <title>
+    <![CDATA[
+    El retorno - Amado Nervo
+    ]]>
+  </title>
+  <link>
+    http://albalearning.com/audiolibros/nervo/elretorno-p.html
+  </link>
+  <enclosure url="https://archive.org/download/alan3fre/albalearning-elretorno_nervo.mp3" type="audio/mpeg" length="2341648"/>
+  <description>
+    <![CDATA[
+    Rima XXVI - Voy contra mi interes al confesarlo - Gustavo Adolfo Becquer
+    Música: Violin Sonata No. 1 - Op. 78 (Allegro molto moderato)
+    
+    http://albalearning.com/audiolibros/nervo/elretorno-p.html
+    ]]>
+  </description>
+  <pubDate>Sun, 11 Jan 2015 01:03:00 +0500</pubDate>
+  <itunes:duration>02:26</itunes:duration>
+  <guid>http://albalearning.com/audiolibros/becquer/rimaxxvi.html</guid>
+</item>
 <item>
   <title>
     <![CDATA[
@@ -44,12 +66,12 @@ Fuente: AudioLibros en AlbaLearning
   <description>
     <![CDATA[
     El paseo repentino - Franz Kafka
-
-    Fuente: AlbaLearning
+    Música: Cello Concerto in b menor_2nd_Dvorak
+    
     http://albalearning.com/audiolibros/kafka/elpaseorepentino.html
-  ]]>
+    ]]>
   </description>
-  <pubDate>Sat, 10 Jan 2015 00:00:00 +0100</pubDate>
+  <pubDate>Sat, 10 Jan 2015 00:00:00 +0500</pubDate>
   <itunes:duration>04:59</itunes:duration>
   <guid>http://albalearning.com/audiolibros/kafka/elpaseorepentino.html</guid>
 </item>
@@ -67,11 +89,10 @@ Fuente: AudioLibros en AlbaLearning
     <![CDATA[
     Rima XXVI - Voy contra mi interes al confesarlo - Gustavo Adolfo Becquer
 
-    Fuente: AlbaLearning
     http://albalearning.com/audiolibros/becquer/rimaxxvi.html
     ]]>
   </description>
-  <pubDate>Sat, 10 Jan 2015 00:00:00 +0100</pubDate>
+  <pubDate>Sat, 10 Jan 2015 00:00:00 +0500</pubDate>
   <itunes:duration>02:04</itunes:duration>
   <guid>http://albalearning.com/audiolibros/becquer/rimaxxvi.html</guid>
 </item>
