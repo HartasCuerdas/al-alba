@@ -1,0 +1,77 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<itunes:author>
+<![CDATA[ daccio ]]>
+</itunes:author>
+<title>
+<![CDATA[ Sigmund Freud ]]>
+</title>
+<link>
+http://www.ivoox.com/podcast-sigmund-freud_sq_f1148838_1.html
+</link>
+<language>es-ES</language>
+<description>
+<![CDATA[
+Fuente: Sigmund Freud en AlbaLearning
+ http://albalearning.com/audiolibros/freud/
+]]>
+</description>
+<generator>iVoox</generator>
+<image>
+<url>http://www.ivoox.com/canales/comunidadg.jpg</url>
+<title>
+<![CDATA[ Sigmund Freud ]]>
+</title>
+<link>
+http://www.ivoox.com/podcast-sigmund-freud_sq_f1148838_1.html
+</link>
+</image>
+<atom:link href="http://www.ivoox.com/feed_fg_f1148838_filtro_1.xml" rel="self" type="application/rss+xml"/>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:image href="http://www.ivoox.com/canales/comunidadg.jpg"/>
+<itunes:category text="Religion & Spirituality">
+<itunes:category text="Spirituality"/>
+</itunes:category>
+<item>
+<title>
+<![CDATA[
+Obsesiones y fobias (1895) - Leído por Alba de AlbaLearning.com
+]]>
+</title>
+<link>
+http://www.ivoox.com/obsesiones-fobias-1895-leido-alba-audios-mp3_rf_3900233_1.html
+</link>
+<enclosure url="http://www.ivoox.com/obsesiones-fobias-1895-leido-alba_mf_3900233_feed_1.mp3" type="audio/mpeg" length="26400000"/>
+<description>
+<![CDATA[
+Su mecanismo Psíquico y su Etiología
+ 
+ Fuente: AlbaLearning
+ http://albalearning.com/audiolibros/freud/obsesiones.html
+]]>
+</description>
+<pubDate>Mon, 29 Dec 2014 00:57:00 +0100</pubDate>
+<itunes:duration>27:30</itunes:duration>
+<guid>http://www.ivoox.com/3900233</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+Duelo y melancolía - Leído por Alba de AlbaLearning.com
+]]>
+</title>
+<link>
+http://www.ivoox.com/duelo-melancolia-leido-alba-de-audios-mp3_rf_3900213_1.html
+</link>
+<enclosure url="http://www.ivoox.com/duelo-melancolia-leido-alba-de_mf_3900213_feed_1.mp3" type="audio/mpeg" length="52256000"/>
+<description>
+<![CDATA[
+Fuente: AlbaLearning http://albalearning.com/audiolibros/freud/duelo.html
+]]>
+</description>
+<pubDate>Mon, 29 Dec 2014 00:45:00 +0100</pubDate>
+<itunes:duration>54:26</itunes:duration>
+<guid>http://www.ivoox.com/3900213</guid>
+</item>
+</channel>
+</rss>
